@@ -1,5 +1,9 @@
 # simple-app
 
+## Description
+A simple app, to be used as a testing app, for testing purposes, or as a fun app, just for fun and random things to try out.
+The world is your oyster.
+
 ## Project setup
 ```
 npm install
